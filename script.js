@@ -3,7 +3,7 @@ var upperCase= "ABCDEFGHIJKLM";
 var lowerCase= "abcdefghijklm";
 var special= "!@#$%^&()?";
 var number= "123456789";
-var passwordLenght = 10;
+var passwordLenght = 9;
 
 
 
